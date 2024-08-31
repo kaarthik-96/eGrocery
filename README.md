@@ -4,6 +4,9 @@
 
 This project is an E-Commerce Website developed as part of a college assignment. The website allows users to browse and purchase products online, with features such as adding items to a shopping cart, managing a wishlist, filtering products by category, and searching for specific products. It showcases web development skills using HTML, CSS, and JavaScript, with an emphasis on responsive design across different screen sizes.
 
+## Deployement
+https://kaarthik-96.github.io/eGrocery/
+
 ## Screenshots
 
 ### Desktop View
