@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const wishlistItemsContainer = document.getElementById('wishlist-items');
     const totalAmountSpan = document.getElementById('total-amount');
 
-    const imagePath = 'D:\\eGrocery\\images\\'; // Path to images
+    const imagePath = 'images\\'; // Path to images
 
     function addItemToCart(item) {
         const existingItem = cartItemsContainer.querySelector(`.cart-item[data-name="${item.name}"]`);
